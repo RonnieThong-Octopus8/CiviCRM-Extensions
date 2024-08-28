@@ -24,11 +24,8 @@ Before installing the Auto Create Contact extension, ensure you have the followi
 
 ### Installation Steps
 
-* Download the Extension: You can download the extension directly from the CiviCRM Extensions directory or clone it from the repository. * If cloning from a repository, navigate to your CiviCRM extensions directory:
-```
-cd /path/to/civicrm/extensions
-git clone https://github.com/yourusername/auto_create_contact.git
-```
+* Download the Extension: You can download the extension directly from the CiviCRM Extensions directory or clone it from the repository. * If cloning from a repository, navigate to your CiviCRM extensions directory.
+
 * Enable the Extension: * Log in to your CiviCRM instance as an administrator. * Navigate to Administer > System Settings > Extensions. * Locate the Auto Create Contact extension and click "Install".
 
 * Configure the Extension: * After installation, go to Administer > Customize Data and Screens > Auto Create Contact. * Define the conditions under which new contacts should be created. This could be based on specific form submissions, data imports, or other triggers within CiviCRM. * Set any additional configuration options as required.
