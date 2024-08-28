@@ -54,9 +54,6 @@ Alternatively, you can refresh the extension without uninstalling it.
 ## Contributing
 If you’d like to contribute to this repository, please fork the repository, make your changes, and submit a pull request. Contributions to improve functionality, fix bugs, or add new features are always welcome.
 
-## License
-This repository is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 For more information, questions, or support, please contact:
 
