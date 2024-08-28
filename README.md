@@ -6,17 +6,17 @@ This repository contains a collection of custom extensions for CiviCRM, designed
 
 ## Available Extensions
 
-### 1. API Key Management (apikey-1.5.0) Manages API keys for users, allowing secure and controlled access to the CiviCRM API. This extension helps in generating, managing, and revoking API keys for various users or applications.
+ 1. API Key Management (apikey-1.5.0) Manages API keys for users, allowing secure and controlled access to the CiviCRM API. This extension helps in generating, managing, and revoking API keys for various users or applications.
 
-### 2. Auto Create Contact (auto_create_contact) Automatically creates a contact record when certain conditions are met, such as when a new interaction is logged or when data is imported from an external source. This extension reduces manual data entry and ensures consistency.
+ 2. Auto Create Contact (auto_create_contact) Automatically creates a contact record when certain conditions are met, such as when a new interaction is logged or when data is imported from an external source. This extension reduces manual data entry and ensures consistency.
 
-### 3. Case Age Update (case_age_update) Displays the age of open cases in CiviCRM, helping organizations track and prioritize cases based on how long they have been open. The extension uses color coding to visually differentiate case age (e.g., green for within a day, yellow for more than a day, red for more than two days).
+ 3. Case Age Update (case_age_update) Displays the age of open cases in CiviCRM, helping organizations track and prioritize cases based on how long they have been open. The extension uses color coding to visually differentiate case age (e.g., green for within a day, yellow for more than a day, red for more than two days).
 
-### 4. Client to Group (client_to_group) Automatically adds newly created contacts of type "Client" to a designated group within CiviCRM. This extension streamlines the organization of contacts and ensures that clients are correctly grouped upon creation.
+ 4. Client to Group (client_to_group) Automatically adds newly created contacts of type "Client" to a designated group within CiviCRM. This extension streamlines the organization of contacts and ensures that clients are correctly grouped upon creation.
 
-### 5. Email from Case (email_from_case) Enables automatic email notifications based on case activity. When a new case is created or updated, this extension sends an email to predefined recipients with relevant case details, such as case ID and a link to view the case.
+ 5. Email from Case (email_from_case) Enables automatic email notifications based on case activity. When a new case is created or updated, this extension sends an email to predefined recipients with relevant case details, such as case ID and a link to view the case.
 
-### 6. Extension Test (extest) A simple extension used for testing and development purposes. It includes basic functionality to demonstrate how extensions can be created, configured, and deployed in CiviCRM.
+ 6. Extension Test (extest) A simple extension used for testing and development purposes. It includes basic functionality to demonstrate how extensions can be created, configured, and deployed in CiviCRM.
 
 ## Installation Guide
 
