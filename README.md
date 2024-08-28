@@ -19,7 +19,6 @@ This repository contains a collection of custom extensions for CiviCRM, designed
  6. Extension Test (extest) A simple extension used for testing and development purposes. It includes basic functionality to demonstrate how extensions can be created, configured, and deployed in CiviCRM.
 
 ## Installation Guide
-
 ### Prerequisites
 
 **CiviCRM**: Ensure that you have a CiviCRM installation running on your CMS (e.g., WordPress, Drupal, Joomla).
@@ -28,42 +27,37 @@ This repository contains a collection of custom extensions for CiviCRM, designed
 
 **Clone the Repository**:
 
-ruby
-Copy code
-git clone https://github.com/yourusername/civicrm-extensions.git /path/to/civicrm/extensions/
+git clone https://github.com/RonnieThong-Octopus8/CiviCRM-Extensions.git /path/to/civicrm/extensions/
+
 **Enable the Extensions**:
 
 Log in to your CiviCRM instance as an administrator.
 Navigate to Administer > System Settings > Extensions.
 Locate the extensions you wish to enable and click "Install" next to each one.
+
 **Configure the Extensions**:
 
 After installation, configure the extensions as needed. This may involve setting up API keys, defining groups, or setting notification preferences.
 For configuration options, navigate to Administer > Customize Data and Screens > CiviCRM Extensions.
-## Updating Extensions
 
+## Updating Extensions
 ### Pull the Latest Changes
 
 If you’ve cloned this repository, you can update your local copy by running:
-
-css
-Copy code
 git pull origin main
-### Reinstall or Refresh the Extension
 
+### Reinstall or Refresh the Extension
 Navigate to Administer > System Settings > Extensions.
 Click "Uninstall" next to the extension you wish to update, then reinstall it.
 Alternatively, you can refresh the extension without uninstalling it.
-## Contributing
 
+## Contributing
 If you’d like to contribute to this repository, please fork the repository, make your changes, and submit a pull request. Contributions to improve functionality, fix bugs, or add new features are always welcome.
 
 ## License
-
 This repository is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-
 For more information, questions, or support, please contact:
 
 **Your Name**
