@@ -26,9 +26,9 @@ This repository contains a collection of custom extensions for CiviCRM, designed
 ### Installation Steps
 
 **Clone the Repository**:
-
+```
 git clone https://github.com/RonnieThong-Octopus8/CiviCRM-Extensions.git /path/to/civicrm/extensions/
-
+```
 **Enable the Extensions**:
 
 Log in to your CiviCRM instance as an administrator.
@@ -44,8 +44,9 @@ For configuration options, navigate to Administer > Customize Data and Screens >
 ### Pull the Latest Changes
 
 If you’ve cloned this repository, you can update your local copy by running:
+```
 git pull origin main
-
+```
 ### Reinstall or Refresh the Extension
 Navigate to Administer > System Settings > Extensions.
 Click "Uninstall" next to the extension you wish to update, then reinstall it.
