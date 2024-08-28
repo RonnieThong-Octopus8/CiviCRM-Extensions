@@ -1,0 +1,10 @@
+{
+    "require": {
+        "phpseclib/phpseclib": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CRM_Extest\\": "CRM/Extest/"
+        }
+    }
+}

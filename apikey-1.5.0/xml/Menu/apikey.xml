@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<menu>
+ <item>
+    <path>civicrm/contact/view/apikey</path>
+    <page_callback>CRM_Contact_Page_View_APIKey</page_callback>
+    <title>API Key</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+  <item>
+    <path>civicrm/contact/apikey</path>
+    <page_callback>CRM_Contact_Form_APIKey</page_callback>
+    <title>API Key</title>
+    <access_arguments>access CiviCRM</access_arguments>
+    <path_arguments>action=add&amp;reset=1</path_arguments>
+  </item>
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/auto-create-page</path>
+    <page_callback>CRM_AutoCreateContact_Page_AutoCreatePage</page_callback>
+    <title>AutoCreatePage</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>

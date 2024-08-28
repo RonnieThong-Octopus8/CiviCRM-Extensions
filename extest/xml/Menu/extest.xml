@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/mycustomform</path>
+    <page_callback>CRM_Extest_Form_MyCustomForm</page_callback>
+    <title>MyCustomForm</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+  <item>
+    <path>civicrm/mycustompage</path>
+    <page_callback>CRM_Extest_Page_MyCustomPage</page_callback>
+    <title>MyCustomPage</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+  <item>
+    <path>civicrm/fetchrecordings</path>
+    <page_callback>CRM_Extest_Page_FetchRecordings</page_callback>
+    <title>Fetch Recordings</title>
+    <access_arguments>administer CiviCRM</access_arguments>
+  </item>
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/update-case-age</path>
+    <page_callback>CRM_CaseAgeUpdate_Page_UpdateCaseAge</page_callback>
+    <title>UpdateCaseAge</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
